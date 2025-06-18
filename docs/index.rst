@@ -12,7 +12,7 @@ Dashlane is a popular password manager used by millions worldwide to securely st
 
 .. image:: click-service.png
    :alt: My Project Logo
-   :width: 200px
+   :width: 600px
    :align: center
    :target: https://tek.chat/
 
